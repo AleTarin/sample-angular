@@ -1,6 +1,4 @@
-import { Component, OnChanges, Input } from '@angular/core';
-import { Output } from '@angular/core/src/metadata/directives';
-import { EventEmitter } from 'selenium-webdriver';
+import { Component, OnChanges, Input, Output, EventEmitter } from '@angular/core';
 
 @Component({
     selector: 'pm-star',
